@@ -1,8 +1,8 @@
 # 💻 Laptop Price Prediction System
 
 An end-to-end **machine learning regression application** that predicts laptop prices based on hardware specifications. The project demonstrates the complete ML lifecycle, including model training, ensemble learning, API deployment, and containerization.
-
-![Laptop Price Prediction App](./image.png)
+Image link:
+https://hub.docker.com/repository/docker/aashi2801/laptoppricepredictor/general
 
 ---
 
